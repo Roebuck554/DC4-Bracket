@@ -127,21 +127,21 @@
     },
     {
       "ID": 7,
-      "Team1Acronym": "CHC",
+      "Team1Acronym": "CHI",
       "Team1Score": 5,
       "Team2Acronym": "EL ",
       "Team2Score": 4,
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-10-09T16:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "Y": 300
       },
       "Acronyms": [
-        "CHC",
+        "CHI",
         "EL "
       ],
       "PointsToWin": 5
@@ -478,7 +478,7 @@
       "ID": 6,
       "Team1Acronym": "THO",
       "Team1Score": null,
-      "Team2Acronym": "CHC",
+      "Team2Acronym": "CHI",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -492,7 +492,7 @@
       },
       "Acronyms": [
         "THO",
-        "CHC"
+        "CHI"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
@@ -597,7 +597,7 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2022-10-14T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -6091,8 +6091,8 @@
     },
     {
       "FullName": "Choco Ice",
-      "FlagName": "",
-      "Acronym": "CHC",
+      "FlagName": "EMPTY",
+      "Acronym": "CHI",
       "SeedingResults": [
         {
           "Beatmaps": [
