@@ -112,7 +112,7 @@
       "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2022-10-09T05:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -127,7 +127,7 @@
     },
     {
       "ID": 7,
-      "Team1Acronym": "CHO",
+      "Team1Acronym": "CHC",
       "Team1Score": 5,
       "Team2Acronym": "EL ",
       "Team2Score": 4,
@@ -141,7 +141,7 @@
         "Y": 300
       },
       "Acronyms": [
-        "CHO",
+        "CHC",
         "EL "
       ],
       "PointsToWin": 5
@@ -478,7 +478,7 @@
       "ID": 6,
       "Team1Acronym": "THO",
       "Team1Score": null,
-      "Team2Acronym": "CHO",
+      "Team2Acronym": "CHC",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -492,7 +492,7 @@
       },
       "Acronyms": [
         "THO",
-        "CHO"
+        "CHC"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 5
@@ -546,10 +546,10 @@
     {
       "ID": 20,
       "Team1Acronym": "CHO",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "GHE",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -563,7 +563,6 @@
         "CHO",
         "GHE"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -592,13 +591,13 @@
     {
       "ID": 28,
       "Team1Acronym": "青ペン",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "-_-",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-10-14T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -609,7 +608,6 @@
         "青ペン",
         "-_-"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -809,6 +807,7 @@
     },
     {
       "ID": 22,
+      "Team1Acronym": "CHO",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -821,11 +820,15 @@
         "X": 600,
         "Y": 950
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "CHO"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 30,
+      "Team1Acronym": "青ペン",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -838,7 +841,10 @@
         "X": 600,
         "Y": 1350
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "青ペン"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -860,6 +866,7 @@
     },
     {
       "ID": 39,
+      "Team1Acronym": "-_-",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -872,7 +879,10 @@
         "X": 400,
         "Y": 1800
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "-_-"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -894,6 +904,7 @@
     },
     {
       "ID": 47,
+      "Team1Acronym": "GHE",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -906,11 +917,14 @@
         "X": 400,
         "Y": 2000
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "GHE"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
-      "ID": 50,
+      "ID": 51,
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1324,7 +1338,7 @@
       "PointsToWin": 5
     },
     {
-      "ID": 51,
+      "ID": 50,
       "Team1Acronym": "NUN",
       "Team1Score": null,
       "Team2Acronym": "NOO",
@@ -2042,7 +2056,7 @@
         58,
         62,
         38,
-        51
+        50
       ]
     },
     {
@@ -2112,7 +2126,7 @@
         39,
         43,
         47,
-        50,
+        51,
         55,
         59,
         63,
@@ -6078,7 +6092,7 @@
     {
       "FullName": "Choco Ice",
       "FlagName": "",
-      "Acronym": "CHO",
+      "Acronym": "CHC",
       "SeedingResults": [
         {
           "Beatmaps": [
@@ -17431,7 +17445,7 @@
       "TargetID": 44
     },
     {
-      "SourceID": 50,
+      "SourceID": 51,
       "TargetID": 52
     },
     {
@@ -17523,8 +17537,8 @@
       "TargetID": 39
     },
     {
-      "SourceID": 51,
-      "TargetID": 50
+      "SourceID": 50,
+      "TargetID": 51
     },
     {
       "SourceID": 1,
@@ -17568,12 +17582,12 @@
     },
     {
       "SourceID": 19,
-      "TargetID": 51,
+      "TargetID": 50,
       "Losers": true
     },
     {
       "SourceID": 21,
-      "TargetID": 51,
+      "TargetID": 50,
       "Losers": true
     },
     {
@@ -17623,7 +17637,7 @@
     },
     {
       "SourceID": 14,
-      "TargetID": 50,
+      "TargetID": 51,
       "Losers": true
     },
     {
