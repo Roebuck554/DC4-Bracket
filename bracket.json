@@ -454,10 +454,10 @@
     {
       "ID": 2,
       "Team1Acronym": "VIC",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "STA",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -471,16 +471,15 @@
         "VIC",
         "STA"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 6,
       "Team1Acronym": "THO",
-      "Team1Score": null,
+      "Team1Score": 1,
       "Team2Acronym": "CHI",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -500,10 +499,10 @@
     {
       "ID": 10,
       "Team1Acronym": "!AA",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "TUT",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -523,10 +522,10 @@
     {
       "ID": 14,
       "Team1Acronym": "TOU",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "RAM",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -540,7 +539,6 @@
         "TOU",
         "RAM"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -568,10 +566,10 @@
     {
       "ID": 24,
       "Team1Acronym": "DRA",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "BOM",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 1,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -585,7 +583,6 @@
         "DRA",
         "BOM"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
@@ -613,10 +610,10 @@
     {
       "ID": 32,
       "Team1Acronym": "NEO",
-      "Team1Score": null,
+      "Team1Score": 2,
       "Team2Acronym": "2.0",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": false,
       "PicksBans": [],
       "Current": false,
@@ -642,7 +639,7 @@
       "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2022-10-14T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -740,10 +737,10 @@
     {
       "ID": 54,
       "Team1Acronym": "EGG",
-      "Team1Score": null,
+      "Team1Score": 5,
       "Team2Acronym": "TWO",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 3,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -757,19 +754,18 @@
         "EGG",
         "TWO"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 5
     },
     {
       "ID": 58,
       "Team1Acronym": "MON",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "TOA",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-10-14T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -808,7 +804,9 @@
     },
     {
       "ID": 4,
+      "Team1Acronym": "VIC",
       "Team1Score": null,
+      "Team2Acronym": "CHI",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -820,12 +818,18 @@
         "X": 600,
         "Y": 150
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "VIC",
+        "CHI"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 12,
+      "Team1Acronym": "TUT",
       "Team1Score": null,
+      "Team2Acronym": "TOU",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -837,13 +841,18 @@
         "X": 600,
         "Y": 550
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "TUT",
+        "TOU"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 22,
       "Team1Acronym": "CHO",
       "Team1Score": null,
+      "Team2Acronym": "DRA",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -856,7 +865,8 @@
         "Y": 950
       },
       "Acronyms": [
-        "CHO"
+        "CHO",
+        "DRA"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -865,6 +875,7 @@
       "ID": 30,
       "Team1Acronym": "青ペン",
       "Team1Score": null,
+      "Team2Acronym": "2.0",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -877,7 +888,8 @@
         "Y": 1350
       },
       "Acronyms": [
-        "青ペン"
+        "青ペン",
+        "2.0"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -886,6 +898,7 @@
       "ID": 35,
       "Team1Acronym": "ALT",
       "Team1Score": null,
+      "Team2Acronym": "NEO",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -898,7 +911,8 @@
         "Y": 1700
       },
       "Acronyms": [
-        "ALT"
+        "ALT",
+        "NEO"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -930,6 +944,7 @@
       "ID": 43,
       "Team1Acronym": ":CO",
       "Team1Score": null,
+      "Team2Acronym": "BOM",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -942,7 +957,8 @@
         "Y": 1900
       },
       "Acronyms": [
-        ":CO"
+        ":CO",
+        "BOM"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -972,6 +988,7 @@
     },
     {
       "ID": 51,
+      "Team1Acronym": "RAM",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -984,12 +1001,17 @@
         "X": 400,
         "Y": 2100
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "RAM"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 55,
+      "Team1Acronym": "!AA",
       "Team1Score": null,
+      "Team2Acronym": "EGG",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1001,12 +1023,18 @@
         "X": 400,
         "Y": 2200
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "!AA",
+        "EGG"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 59,
+      "Team1Acronym": "THO",
       "Team1Score": null,
+      "Team2Acronym": "TOA",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1018,13 +1046,18 @@
         "X": 400,
         "Y": 2300
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "THO",
+        "TOA"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 63,
       "Team1Acronym": "LA ",
       "Team1Score": null,
+      "Team2Acronym": "STA",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1037,7 +1070,8 @@
         "Y": 2400
       },
       "Acronyms": [
-        "LA "
+        "LA ",
+        "STA"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
@@ -2039,7 +2073,7 @@
       ]
     },
     {
-      "Name": "",
+      "Name": "RO16",
       "Description": "",
       "BestOf": 9,
       "Beatmaps": [
@@ -2665,60 +2699,689 @@
       ]
     },
     {
-      "Name": "Quarterfinals",
+      "Name": "",
       "Description": "",
       "BestOf": 11,
       "Beatmaps": [
         {
-          "Mods": "NM"
+          "ID": 2284524,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 2284524,
+            "DifficultyName": "X",
+            "BPM": 180.0,
+            "Length": 241000.0,
+            "StarRating": 6.51,
+            "Metadata": {
+              "Title": "DICE",
+              "title_unicode": "DICE",
+              "Artist": "BAND-MAID",
+              "artist_unicode": "BAND-MAID",
+              "Author": {
+                "OnlineID": 1872496,
+                "Username": "Meg",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "image-- metal kuei",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.9,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1092940/covers/cover@2x.jpg?1582372583",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1092940/covers/card@2x.jpg?1582372583",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1092940/covers/list@2x.jpg?1582372583"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3841861,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3841861,
+            "DifficultyName": "Loudness War",
+            "BPM": 185.0,
+            "Length": 193000.0,
+            "StarRating": 6.84,
+            "Metadata": {
+              "Title": "Evil But Innocent",
+              "title_unicode": "Evil But Innocent",
+              "Artist": "UNDEAD CORPORATION",
+              "artist_unicode": "UNDEAD CORPORATION",
+              "Author": {
+                "OnlineID": 2155578,
+                "Username": "Azer",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "owc2022ro32nm2 touhou touhou 13 - seiga kaku's theme ~ old yuanxian",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1867631/covers/cover@2x.jpg?1665954552",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1867631/covers/card@2x.jpg?1665954552",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1867631/covers/list@2x.jpg?1665954552"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3181080,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3181080,
+            "DifficultyName": "Extra",
+            "BPM": 142.0,
+            "Length": 218000.0,
+            "StarRating": 6.16,
+            "Metadata": {
+              "Title": "Nemureru Mori no Shoujo",
+              "title_unicode": "眠れる森の少女",
+              "Artist": "Hatsuki Yura",
+              "artist_unicode": "葉月ゆら",
+              "Author": {
+                "OnlineID": 6889573,
+                "Username": "KKipalt",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "-doodle",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1557153/covers/cover@2x.jpg?1635312620",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1557153/covers/card@2x.jpg?1635312620",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1557153/covers/list@2x.jpg?1635312620"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3752651,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3752651,
+            "DifficultyName": "Expert",
+            "BPM": 174.0,
+            "Length": 125000.0,
+            "StarRating": 6.08,
+            "Metadata": {
+              "Title": "Engine",
+              "title_unicode": "Engine",
+              "Artist": "eFeL",
+              "artist_unicode": "eFeL",
+              "Author": {
+                "OnlineID": 3214844,
+                "Username": "Feiri",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "corsace open co22 ro32 nm4 bofu2015 bms of fighters neuro drum & bass dnb glitch throne alpha complex",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 8.8,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1828441/covers/cover@2x.jpg?1662998436",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1828441/covers/card@2x.jpg?1662998436",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1828441/covers/list@2x.jpg?1662998436"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3045916,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3045916,
+            "DifficultyName": "nerfed",
+            "BPM": 235.0,
+            "Length": 164000.0,
+            "StarRating": 6.7,
+            "Metadata": {
+              "Title": "Daydream",
+              "title_unicode": "Daydream",
+              "Artist": "The Ghost of 3.13",
+              "artist_unicode": "The Ghost of 3.13",
+              "Author": {
+                "OnlineID": 6889573,
+                "Username": "KKipalt",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "nm5 bamboo",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1485374/covers/cover@2x.jpg?1625459428",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1485374/covers/card@2x.jpg?1625459428",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1485374/covers/list@2x.jpg?1625459428"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 3539959,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3539959,
+            "DifficultyName": "X",
+            "BPM": 217.0,
+            "Length": 221000.0,
+            "StarRating": 6.39,
+            "Metadata": {
+              "Title": "Pray",
+              "title_unicode": "Pray",
+              "Artist": "MARiA",
+              "artist_unicode": "メイリア",
+              "Author": {
+                "OnlineID": 9327302,
+                "Username": "SMOKELIND",
+                "CountryString": "Unknown"
+              },
+              "Source": "メメントモリ",
+              "tags": "mementomori mememori folk japanese japan video game gacha bank of innovation shurelia pepekcz kuro fuyusaki garnidelia moments",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1731867/covers/cover@2x.jpg?1658085121",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1731867/covers/card@2x.jpg?1658085121",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1731867/covers/list@2x.jpg?1658085121"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 3287936,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 3287936,
+            "DifficultyName": "Expert",
+            "BPM": 180.0,
+            "Length": 196000.0,
+            "StarRating": 5.81,
+            "Metadata": {
+              "Title": "Two Breaths Walking (Reloaded) feat. Hatsune Miku",
+              "title_unicode": "二息歩行 (Reloaded) feat. 初音ミク",
+              "Artist": "DECO*27",
+              "artist_unicode": "DECO*27",
+              "Author": {
+                "OnlineID": 7535045,
+                "Username": "CallieCube",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "obamacube smokebloke rock japanese vocaloid",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 4.5,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1608216/covers/cover@2x.jpg?1637629221",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1608216/covers/card@2x.jpg?1637629221",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1608216/covers/list@2x.jpg?1637629221"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 2419515,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2419515,
+            "DifficultyName": "Frakturehawkens' Funny and Stupid Extra",
+            "BPM": 153.0,
+            "Length": 170000.0,
+            "StarRating": 5.97,
+            "Metadata": {
+              "Title": "Basket Case",
+              "title_unicode": "Basket Case",
+              "Artist": "Green Day",
+              "artist_unicode": "Green Day",
+              "Author": {
+                "OnlineID": 6885942,
+                "Username": "Hectic",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "h4d0uk3n1 kuyusu fergas schoolboy komore xbopost tokiko time freeze ksardas smozit adioni frakturehawkens themefisto fcl senseabel rock english punk-rock punk pop-punk alternative dookie",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 2.2,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.2,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1142364/covers/cover@2x.jpg?1650710040",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1142364/covers/card@2x.jpg?1650710040",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1142364/covers/list@2x.jpg?1650710040"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 3605061,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3605061,
+            "DifficultyName": "Deception",
+            "BPM": 190.0,
+            "Length": 217000.0,
+            "StarRating": 6.1,
+            "Metadata": {
+              "Title": "Replicant",
+              "title_unicode": "レプリカント",
+              "Artist": "Yorushika",
+              "artist_unicode": "ヨルシカ",
+              "Author": {
+                "OnlineID": 17332378,
+                "Username": "alevi",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "[_lost_] conner c_o_n_n_e_r sarawatlism chizu_kun chizu-kun mikanzil goth asuka goth_asuka dora- doraemonelf japanese rock jrock j-rock jpop j-pop pop plagiarism tousaku 盗作 suis スイ n-buna nabuna ナブナ",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.2,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.1,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1761390/covers/cover@2x.jpg?1658083862",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1761390/covers/card@2x.jpg?1658083862",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1761390/covers/list@2x.jpg?1658083862"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 1985592,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 1985592,
+            "DifficultyName": "Fantasy",
+            "BPM": 130.0,
+            "Length": 183000.0,
+            "StarRating": 5.09,
+            "Metadata": {
+              "Title": "WAVE",
+              "title_unicode": "WAVE",
+              "Artist": "Hanatan",
+              "artist_unicode": "花たん",
+              "Author": {
+                "OnlineID": 3388410,
+                "Username": "eiri-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ayyri niki djulus alexsander rizen einess flower japanese pop vocaloid cover yurica",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/950784/covers/cover@2x.jpg?1650677821",
+              "card@2x": "https://assets.ppy.sh/beatmaps/950784/covers/card@2x.jpg?1650677821",
+              "list@2x": "https://assets.ppy.sh/beatmaps/950784/covers/list@2x.jpg?1650677821"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 3775573,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3775573,
+            "DifficultyName": "REFORM'S EXPERT",
+            "BPM": 195.0,
+            "Length": 238000.0,
+            "StarRating": 5.44,
+            "Metadata": {
+              "Title": "READYMADE",
+              "title_unicode": "レディメイド",
+              "Artist": "Amatsuki",
+              "artist_unicode": "天月",
+              "Author": {
+                "OnlineID": 9234078,
+                "Username": "Kirishima-",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "surii suri three 3 すりぃ 狂言 kyougen あまつき ado japanese pop jpop j-pop jazz swing 1/3 utaite cover male vocalist pepekcz hyokar reform kujinn",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.2,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1756375/covers/cover@2x.jpg?1665443959",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1756375/covers/card@2x.jpg?1665443959",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1756375/covers/list@2x.jpg?1665443959"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 1676795,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 1676795,
+            "DifficultyName": "Insane",
+            "BPM": 176.0,
+            "Length": 223000.0,
+            "StarRating": 4.62,
+            "Metadata": {
+              "Title": "Koe",
+              "title_unicode": "声",
+              "Artist": "HAG",
+              "artist_unicode": "H△G",
+              "Author": {
+                "OnlineID": 3222353,
+                "Username": "C O N N E R",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ハグ hagu vocaloid cover album j-pop japanese jpop pop mili [_lost_] xhappy- p_kung nextgenbold pawlyk here conner c_o_n_n_e_r wenect unranked mapper",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.5,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/798510/covers/cover@2x.jpg?1650679286",
+              "card@2x": "https://assets.ppy.sh/beatmaps/798510/covers/card@2x.jpg?1650679286",
+              "list@2x": "https://assets.ppy.sh/beatmaps/798510/covers/list@2x.jpg?1650679286"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 3168379,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3168379,
+            "DifficultyName": "Insane",
+            "BPM": 160.0,
+            "Length": 181000.0,
+            "StarRating": 4.49,
+            "Metadata": {
+              "Title": "Cloud Control",
+              "title_unicode": "Cloud Control",
+              "Artist": "Dimrain47",
+              "artist_unicode": "Dimrain47",
+              "Author": {
+                "OnlineID": 1233255,
+                "Username": "PandaHero",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "local hero coffee hispanic mocha swiss1 dt2 featured artist fa mappers mappers' guild mpg electronic instrumental newgrounds techno",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1550498/covers/cover@2x.jpg?1663780637",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1550498/covers/card@2x.jpg?1663780637",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1550498/covers/list@2x.jpg?1663780637"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 806465,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 806465,
+            "DifficultyName": "Lunatic",
+            "BPM": 170.0,
+            "Length": 246000.0,
+            "StarRating": 4.48,
+            "Metadata": {
+              "Title": "Foughten Field",
+              "title_unicode": "Foughten Field",
+              "Artist": "ALiCE'S EMOTiON",
+              "artist_unicode": "ALiCE'S EMOTiON",
+              "Author": {
+                "OnlineID": 1953876,
+                "Username": "Natsu",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方Project",
+              "tags": "redalice ayumi nomiya overture kana reitaisai8 the venerable ancient battlefield suwa foughten field stage 6 boss theme kanako yasaka touhou fuujinroku mountain of faith p_a_n pan euny alacat",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/366643/covers/cover@2x.jpg?1650634281",
+              "card@2x": "https://assets.ppy.sh/beatmaps/366643/covers/card@2x.jpg?1650634281",
+              "list@2x": "https://assets.ppy.sh/beatmaps/366643/covers/list@2x.jpg?1650634281"
+            }
+          }
         },
         {
-          "Mods": "FM"
+          "ID": 2109396,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 2109396,
+            "DifficultyName": "N/A's Extra",
+            "BPM": 170.0,
+            "Length": 135000.0,
+            "StarRating": 5.95,
+            "Metadata": {
+              "Title": "Illusion of Inflict",
+              "title_unicode": "Illusion of Inflict",
+              "Artist": "HyuN",
+              "artist_unicode": "HyuN",
+              "Author": {
+                "OnlineID": 5410645,
+                "Username": "Icekalt",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "featured artist fa mappers' guild mg schoolboy krux travel square dnb drum and bass n/a nerova riuz gx kibbleru",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.7,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/968923/covers/cover@2x.jpg?1635157747",
+              "card@2x": "https://assets.ppy.sh/beatmaps/968923/covers/card@2x.jpg?1635157747",
+              "list@2x": "https://assets.ppy.sh/beatmaps/968923/covers/list@2x.jpg?1635157747"
+            }
+          }
         },
         {
-          "Mods": "FM"
+          "ID": 50148,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 50148,
+            "DifficultyName": "Lunatic",
+            "BPM": 180.0,
+            "Length": 131000.0,
+            "StarRating": 5.64,
+            "Metadata": {
+              "Title": "Cruel Moon",
+              "title_unicode": "Cruel Moon",
+              "Artist": "Tatsh",
+              "artist_unicode": "Tatsh",
+              "Author": {
+                "OnlineID": 13996,
+                "Username": "Shinxyn",
+                "CountryString": "Unknown"
+              },
+              "Source": "Touhou",
+              "tags": "cradle2 sound sepher tatshmusiccircle eirin yagokoro gensokyo millennium history of the imperishible night",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/13584/covers/cover@2x.jpg?1622033086",
+              "card@2x": "https://assets.ppy.sh/beatmaps/13584/covers/card@2x.jpg?1622033086",
+              "list@2x": "https://assets.ppy.sh/beatmaps/13584/covers/list@2x.jpg?1622033086"
+            }
+          }
         },
         {
-          "Mods": "TB"
+          "ID": 3022399,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 3022399,
+            "DifficultyName": "Take me away to my holy grail in your bed",
+            "BPM": 196.0,
+            "Length": 286000.0,
+            "StarRating": 6.35,
+            "Metadata": {
+              "Title": "Versace Summer",
+              "title_unicode": "Versace Summer",
+              "Artist": "JANK",
+              "artist_unicode": "JANK",
+              "Author": {
+                "OnlineID": 11843685,
+                "Username": "h i f u",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "english punk awkward pop fun indie jazz rock emo philadelphia panucci's pizza fail better heal faster hifu h_i_f_u",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.4,
+              "CircleSize": 4.1,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1470062/covers/cover@2x.jpg?1624314638",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1470062/covers/card@2x.jpg?1624314638",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1470062/covers/list@2x.jpg?1624314638"
+            }
+          }
         }
       ],
       "StartDate": "2022-10-21T01:00:00+01:00",
