@@ -1212,10 +1212,61 @@
       "Team1Acronym": "TUT",
       "Team1Score": 0,
       "Team2Acronym": "TEN",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3267248
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2744052
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3667847
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2811634
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3276673
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2701648
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1570419
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3045587
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2969151
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3288489
+        }
+      ],
       "Current": true,
       "Date": "2022-10-29T14:00:00+01:00",
       "ConditionalMatches": [],
@@ -1301,6 +1352,7 @@
     },
     {
       "ID": 40,
+      "Team1Acronym": "TEN",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1313,7 +1365,10 @@
         "X": 1000,
         "Y": 1850
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "TEN"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
