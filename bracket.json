@@ -1170,7 +1170,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-10-30T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1187,12 +1187,78 @@
     {
       "ID": 26,
       "Team1Acronym": "CHO",
-      "Team1Score": null,
+      "Team1Score": 3,
       "Team2Acronym": "青ペン",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3166140
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3267248
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2744052
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 2522615
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3438674
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1570419
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3181360
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3667847
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2969151
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3276673
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2701648
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3015149
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2811634
+        }
+      ],
       "Current": false,
       "Date": "2022-10-29T17:00:00+01:00",
       "ConditionalMatches": [],
@@ -1267,7 +1333,7 @@
           "BeatmapID": 3288489
         }
       ],
-      "Current": true,
+      "Current": false,
       "Date": "2022-10-29T14:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1391,6 +1457,7 @@
     {
       "ID": 16,
       "Team1Score": null,
+      "Team2Acronym": "青ペン",
       "Team2Score": null,
       "Completed": false,
       "Losers": false,
@@ -1402,11 +1469,14 @@
         "X": 1400,
         "Y": 750
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "青ペン"
+      ],
       "PointsToWin": 7
     },
     {
       "ID": 41,
+      "Team1Acronym": "CHO",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1419,7 +1489,10 @@
         "X": 1200,
         "Y": 1850
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "CHO"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
