@@ -1164,13 +1164,74 @@
     {
       "ID": 8,
       "Team1Acronym": "VIC",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "TOU",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": false,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3166140
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2969151
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3667847
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 2744052
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2811634
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3555094
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2701648
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3045587
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3438674
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 1570419
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3267248
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2522615
+        }
+      ],
+      "Current": false,
       "Date": "2022-10-30T18:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1181,7 +1242,6 @@
         "VIC",
         "TOU"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
@@ -1350,10 +1410,10 @@
     {
       "ID": 45,
       "Team1Acronym": "CHI",
-      "Team1Score": null,
+      "Team1Score": 4,
       "Team2Acronym": "GHE",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1373,10 +1433,10 @@
     {
       "ID": 53,
       "Team1Acronym": "2.0",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "NOO",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 4,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1390,16 +1450,15 @@
         "2.0",
         "NOO"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 61,
       "Team1Acronym": "DRA",
-      "Team1Score": null,
+      "Team1Score": 6,
       "Team2Acronym": "LA ",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 0,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1413,15 +1472,15 @@
         "DRA",
         "LA "
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 40,
       "Team1Acronym": "TEN",
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Score": 5,
+      "Team2Acronym": "GHE",
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1432,30 +1491,38 @@
         "Y": 1850
       },
       "Acronyms": [
-        "TEN"
+        "TEN",
+        "GHE"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 56,
-      "Team1Score": null,
-      "Team2Score": null,
-      "Completed": false,
+      "Team1Acronym": "2.0",
+      "Team1Score": 3,
+      "Team2Acronym": "DRA",
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-10-28T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1000,
         "Y": 2250
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "2.0",
+        "DRA"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 6
     },
     {
       "ID": 16,
+      "Team1Acronym": "VIC",
       "Team1Score": null,
       "Team2Acronym": "青ペン",
       "Team2Score": null,
@@ -1470,14 +1537,17 @@
         "Y": 750
       },
       "Acronyms": [
+        "VIC",
         "青ペン"
       ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 41,
       "Team1Acronym": "CHO",
       "Team1Score": null,
+      "Team2Acronym": "GHE",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1490,14 +1560,17 @@
         "Y": 1850
       },
       "Acronyms": [
-        "CHO"
+        "CHO",
+        "GHE"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 57,
+      "Team1Acronym": "TOU",
       "Team1Score": null,
+      "Team2Acronym": "DRA",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
@@ -1509,7 +1582,11 @@
         "X": 1200,
         "Y": 2250
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "TOU",
+        "DRA"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
@@ -3586,7 +3663,7 @@
       ]
     },
     {
-      "Name": "",
+      "Name": "Semifinals",
       "Description": "",
       "BestOf": 11,
       "Beatmaps": [
@@ -4364,7 +4441,7 @@
       ]
     },
     {
-      "Name": "Finals",
+      "Name": "",
       "Description": "",
       "BestOf": 13,
       "Beatmaps": [
