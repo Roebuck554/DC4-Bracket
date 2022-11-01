@@ -4446,64 +4446,804 @@
       "BestOf": 13,
       "Beatmaps": [
         {
-          "Mods": "NM"
+          "ID": 2301348,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 2301348,
+            "DifficultyName": "Sweet Heaven",
+            "BPM": 194.0,
+            "Length": 230000.0,
+            "StarRating": 6.83,
+            "Metadata": {
+              "Title": "caramel heaven",
+              "title_unicode": "キャラメルへヴン",
+              "Artist": "yuikonnu",
+              "artist_unicode": "ゆいこんぬ",
+              "Author": {
+                "OnlineID": 8022517,
+                "Username": "knowledgeking",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "- azrael - azrael len nico gumi megpoid cover vocolaid jrock rock japanese female utaite cover gumi グミ megpoid メグッポイド vocaloid ボーカロイド vocaloid2 last note. nakanishi irojiro キャラメルヘヴン kyarameru hebun setsuna code first trip vocarock collection 4 feat. hatsune miku doorweapon never_fc_on_osu nashikari realcut",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 3.9,
+              "OverallDifficulty": 9.3,
+              "ApproachRate": 9.8,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1101604/covers/cover@2x.jpg?1633104095",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1101604/covers/card@2x.jpg?1633104095",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1101604/covers/list@2x.jpg?1633104095"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3180049,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3180049,
+            "DifficultyName": "Tribulation from the Native Gods",
+            "BPM": 185.0,
+            "Length": 165000.0,
+            "StarRating": 6.84,
+            "Metadata": {
+              "Title": "Native file",
+              "title_unicode": "Native file",
+              "Artist": "Xi",
+              "artist_unicode": "Xi",
+              "Author": {
+                "OnlineID": 592971,
+                "Username": "AdveNt",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方風神録　～ Mountain of Faith.",
+              "tags": "coffie hispanic mocha swiss2 zun ネイティブフェイス native faith aquaelie 疾走大結界～plastic mind in casket of star",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.2,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1556672/covers/cover@2x.jpg?1632027720",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1556672/covers/card@2x.jpg?1632027720",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1556672/covers/list@2x.jpg?1632027720"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3193021,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3193021,
+            "DifficultyName": "Sparhten's Triple Jail Sentence Extra",
+            "BPM": 154.0,
+            "Length": 207000.0,
+            "StarRating": 6.48,
+            "Metadata": {
+              "Title": "Wiseman no Thema",
+              "title_unicode": "ワイズマンのテーマ",
+              "Artist": "Wiseman (CV: Harada Sayaka & CV: Kito Akari & CV: Mano Ayumi)",
+              "artist_unicode": "ワイズマン (CV: 原田彩楓 & CV: 鬼頭明里 & CV: 真野あゆみ)",
+              "Author": {
+                "OnlineID": 7601720,
+                "Username": "Sparhten",
+                "CountryString": "Unknown"
+              },
+              "Source": "ラストピリオド -終わりなき螺旋の物語-",
+              "tags": "the bg do be cute tho last period: the journey to the end of the despair japanese pop anime gambling addiction gacha game unyu choco co2021 qf nm4",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1563633/covers/cover@2x.jpg?1632684643",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1563633/covers/card@2x.jpg?1632684643",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1563633/covers/list@2x.jpg?1632684643"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3622090,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3622090,
+            "DifficultyName": "Perennial 2022",
+            "BPM": 170.0,
+            "Length": 116000.0,
+            "StarRating": 6.25,
+            "Metadata": {
+              "Title": "ViViTAL MONO",
+              "title_unicode": "ViViTAL MONO",
+              "Artist": "MYUKKE.",
+              "artist_unicode": "MYUKKE.",
+              "Author": {
+                "OnlineID": 6405262,
+                "Username": "Ishtiaq",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.6,
+              "ApproachRate": 9.4,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1569624/covers/cover@2x.jpg?1655665218",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1569624/covers/card@2x.jpg?1655665218",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1569624/covers/list@2x.jpg?1655665218"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3130037,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3130037,
+            "DifficultyName": "Night Meme 5",
+            "BPM": 230.0,
+            "Length": 212000.0,
+            "StarRating": 6.99,
+            "Metadata": {
+              "Title": "Heisei Memehunters",
+              "title_unicode": "Heisei Memehunters",
+              "Artist": "katagiri",
+              "artist_unicode": "かたぎり",
+              "Author": {
+                "OnlineID": 8953955,
+                "Username": "Zelq",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "miso-nicomi records bite 2 beat breakcore lolicore nm5 finals osu! sweden cup",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 3.6,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1530257/covers/cover@2x.jpg?1629657130",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1530257/covers/card@2x.jpg?1629657130",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1530257/covers/list@2x.jpg?1629657130"
+            }
+          }
         },
         {
-          "Mods": "NM"
+          "ID": 3641172,
+          "Mods": "NM",
+          "BeatmapInfo": {
+            "OnlineID": 3641172,
+            "DifficultyName": "Nirvana",
+            "BPM": 137.0,
+            "Length": 183000.0,
+            "StarRating": 6.28,
+            "Metadata": {
+              "Title": "Playing God",
+              "title_unicode": "Playing God",
+              "Artist": "Polyphia",
+              "artist_unicode": "Polyphia",
+              "Author": {
+                "OnlineID": 8688812,
+                "Username": "Mir",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "single rhythm guitar instrumental rock metal prog godchamp",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1777892/covers/cover@2x.jpg?1665830304",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1777892/covers/card@2x.jpg?1665830304",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1777892/covers/list@2x.jpg?1665830304"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 2185651,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2185651,
+            "DifficultyName": "Expert",
+            "BPM": 250.0,
+            "Length": 203000.0,
+            "StarRating": 6.74,
+            "Metadata": {
+              "Title": "humanly",
+              "title_unicode": "人間らしい",
+              "Artist": "umu.",
+              "artist_unicode": "ゆーむ",
+              "Author": {
+                "OnlineID": 2688581,
+                "Username": "Luscent",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "mirash delis shirohamymommy _epreus epreus japanese vocaloid gumi ningenrashii umu ユリイ・カノン yurry canon utaite rock",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1045518/covers/cover@2x.jpg?1622171174",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1045518/covers/card@2x.jpg?1622171174",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1045518/covers/list@2x.jpg?1622171174"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 2588430,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2588430,
+            "DifficultyName": "?",
+            "BPM": 192.0,
+            "Length": 194000.0,
+            "StarRating": 5.86,
+            "Metadata": {
+              "Title": "E? Aa, Sou.",
+              "title_unicode": "え？あぁ、そう。",
+              "Artist": "Yamai",
+              "artist_unicode": "ヤマイ",
+              "Author": {
+                "OnlineID": 9706291,
+                "Username": "Faito",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 4.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1245259/covers/cover@2x.jpg?1600947032",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1245259/covers/card@2x.jpg?1600947032",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1245259/covers/list@2x.jpg?1600947032"
+            }
+          }
         },
         {
-          "Mods": "HD"
+          "ID": 2819481,
+          "Mods": "HD",
+          "BeatmapInfo": {
+            "OnlineID": 2819481,
+            "DifficultyName": "Climax",
+            "BPM": 190.0,
+            "Length": 196000.0,
+            "StarRating": 6.67,
+            "Metadata": {
+              "Title": "Gigantic O.T.N",
+              "title_unicode": "ギガンティックO.T.N",
+              "Artist": "yuikonnu",
+              "artist_unicode": "ゆいこんぬ",
+              "Author": {
+                "OnlineID": 5194391,
+                "Username": "Camo",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "ストロベリズム宣言 giga giga-p cover ギガ 鏡音レン kagamine len electronic oriental japanese pop j-pop jpop camocratic calliecube strawberrhythm sengen gigap utaite nico douga",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.4,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1362797/covers/cover@2x.jpg?1640714968",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1362797/covers/card@2x.jpg?1640714968",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1362797/covers/list@2x.jpg?1640714968"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 3007213,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 3007213,
+            "DifficultyName": "Decaptin's Extra",
+            "BPM": 206.0,
+            "Length": 238000.0,
+            "StarRating": 6.26,
+            "Metadata": {
+              "Title": "Paralyzed Ash",
+              "title_unicode": "Paralyzed Ash",
+              "Artist": "WHITEFISTS feat. Sennzai",
+              "artist_unicode": "WHITEFISTS feat. Sennzai",
+              "Author": {
+                "OnlineID": 8501291,
+                "Username": "Keqing",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "featured artist fa kalibe lowcombofc aeril realazy",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1374055/covers/cover@2x.jpg?1641126167",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1374055/covers/card@2x.jpg?1641126167",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1374055/covers/list@2x.jpg?1641126167"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 2436870,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 2436870,
+            "DifficultyName": "YOKES' EXPERT",
+            "BPM": 173.0,
+            "Length": 112000.0,
+            "StarRating": 5.98,
+            "Metadata": {
+              "Title": "LOVE B.B.B",
+              "title_unicode": "LOVE B.B.B",
+              "Artist": "SWAN K feat. Asuka M",
+              "artist_unicode": "SWAN K feat. Asuka M",
+              "Author": {
+                "OnlineID": 4316633,
+                "Username": "[ Couch ] Lite",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "yokespai",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1100957/covers/cover@2x.jpg?1597519827",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1100957/covers/card@2x.jpg?1597519827",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1100957/covers/list@2x.jpg?1597519827"
+            }
+          }
         },
         {
-          "Mods": "HR"
+          "ID": 2557886,
+          "Mods": "HR",
+          "BeatmapInfo": {
+            "OnlineID": 2557886,
+            "DifficultyName": "LEGGENDARIA",
+            "BPM": 112.0,
+            "Length": 125000.0,
+            "StarRating": 5.81,
+            "Metadata": {
+              "Title": "diagram",
+              "title_unicode": "diagram",
+              "Artist": "Expander",
+              "artist_unicode": "Expander",
+              "Author": {
+                "OnlineID": 5075660,
+                "Username": "Moecho",
+                "CountryString": "Unknown"
+              },
+              "Source": "beatmania IIDX 21 SPADA",
+              "tags": "sota fujimori bemani konami infinitas ultimate mobile dubstep glitch hop arcade rhythm video game instrumental",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 8.5,
+              "ApproachRate": 9.3,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1230364/covers/cover@2x.jpg?1601208025",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1230364/covers/card@2x.jpg?1601208025",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1230364/covers/list@2x.jpg?1601208025"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 546514,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 546514,
+            "DifficultyName": "Friends",
+            "BPM": 156.0,
+            "Length": 312000.0,
+            "StarRating": 5.01,
+            "Metadata": {
+              "Title": "Eien Friends",
+              "title_unicode": "永遠フレンズ",
+              "Artist": "Printemps",
+              "artist_unicode": "Printemps",
+              "Author": {
+                "OnlineID": 1947052,
+                "Username": "Sakaue Nachi",
+                "CountryString": "Unknown"
+              },
+              "Source": "Love Live! School idol project",
+              "tags": "ラブライブ! µ's kousaka honoka minami kotori koizumi hanayo 高坂穂乃果 南ことり 小泉花陽 [csga]ar3sgice 新田恵海 内田彩 久保ユリカ nitta emi uchida aya kubo yurika",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/235836/covers/cover@2x.jpg?1622079796",
+              "card@2x": "https://assets.ppy.sh/beatmaps/235836/covers/card@2x.jpg?1622079796",
+              "list@2x": "https://assets.ppy.sh/beatmaps/235836/covers/list@2x.jpg?1622079796"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 3245458,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3245458,
+            "DifficultyName": "KKip's Insane",
+            "BPM": 153.0,
+            "Length": 238000.0,
+            "StarRating": 4.68,
+            "Metadata": {
+              "Title": "Amazing Mirage (Extended)",
+              "title_unicode": "Amazing Mirage (Extended)",
+              "Artist": "lapix",
+              "artist_unicode": "lapix",
+              "Author": {
+                "OnlineID": 3621552,
+                "Username": "Chaoslitz",
+                "CountryString": "Unknown"
+              },
+              "Source": "beatmania IIDX 24 SINOBUZ",
+              "tags": "hitech fullon original soundtrack ost electronic instrumental pho cubby kkip kkipalt bemani",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.5,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/608572/covers/cover@2x.jpg?1636429147",
+              "card@2x": "https://assets.ppy.sh/beatmaps/608572/covers/card@2x.jpg?1636429147",
+              "list@2x": "https://assets.ppy.sh/beatmaps/608572/covers/list@2x.jpg?1636429147"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 3155184,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3155184,
+            "DifficultyName": "Insane OTST",
+            "BPM": 174.0,
+            "Length": 219000.0,
+            "StarRating": 4.78,
+            "Metadata": {
+              "Title": "Junketsu to Toki no Tenbin",
+              "title_unicode": "純潔と時の天秤",
+              "Artist": "Hatsuki Yura",
+              "artist_unicode": "葉月ゆら",
+              "Author": {
+                "OnlineID": 6889573,
+                "Username": "KKipalt",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.7,
+              "ApproachRate": 8.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1543580/covers/cover@2x.jpg?1630868466",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1543580/covers/card@2x.jpg?1630868466",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1543580/covers/list@2x.jpg?1630868466"
+            }
+          }
         },
         {
-          "Mods": "DT"
+          "ID": 3049438,
+          "Mods": "DT",
+          "BeatmapInfo": {
+            "OnlineID": 3049438,
+            "DifficultyName": "Hidden Another",
+            "BPM": 100.0,
+            "Length": 250000.0,
+            "StarRating": 4.52,
+            "Metadata": {
+              "Title": "Vanity Clock",
+              "title_unicode": "Vanity Clock",
+              "Artist": "love solfege",
+              "artist_unicode": "love solfege",
+              "Author": {
+                "OnlineID": 10288461,
+                "Username": "Chizu-Kun",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "neoclassical experimental japanese pop jpop j-pop reception for witnesses leominexd featured artist fa 鮎 ayu 紺野比奈子 hinako konno オーギュスト棒 auguste stick solfège",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 7.0,
+              "ApproachRate": 7.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1486643/covers/cover@2x.jpg?1631507539",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1486643/covers/card@2x.jpg?1631507539",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1486643/covers/list@2x.jpg?1631507539"
+            }
+          }
         },
         {
-          "Mods": "FM"
+          "ID": 1954858,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 1954858,
+            "DifficultyName": "Expert",
+            "BPM": 190.0,
+            "Length": 256000.0,
+            "StarRating": 6.62,
+            "Metadata": {
+              "Title": "Happy Time wa Owaranai",
+              "title_unicode": "ハッピータイムは終わらない",
+              "Artist": "Nanamori-chu * Goraku-bu",
+              "artist_unicode": "七森中☆ごらく部",
+              "Author": {
+                "OnlineID": 2688103,
+                "Username": "deadcode",
+                "CountryString": "Unknown"
+              },
+              "Source": "ゆるゆり",
+              "tags": "ioexception yuruyuri 三上枝織 大坪由佳 津田美波 大久保瑠美 mikami shiori otsubo yuka tsuda minami okubo rumi 赤座あかり akaza akari 歳納京子 toshino kyoko 船見結衣 funami yui 吉川ちなつ yoshikawa chinatsu yryr yuru yuri",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 3.8,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/935707/covers/cover@2x.jpg?1622157617",
+              "card@2x": "https://assets.ppy.sh/beatmaps/935707/covers/card@2x.jpg?1622157617",
+              "list@2x": "https://assets.ppy.sh/beatmaps/935707/covers/list@2x.jpg?1622157617"
+            }
+          }
         },
         {
-          "Mods": "FM"
+          "ID": 2140702,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 2140702,
+            "DifficultyName": "KIRBY Mix",
+            "BPM": 131.83,
+            "Length": 268000.0,
+            "StarRating": 5.5,
+            "Metadata": {
+              "Title": "Choppastyle",
+              "title_unicode": "Choppastyle",
+              "Artist": "Virt",
+              "artist_unicode": "Virt",
+              "Author": {
+                "OnlineID": 6399568,
+                "Username": "YokesPai",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "fx3 chiptune jake kaufman retro nes 8-bit electronic instrumental starrodkirby86 apo11o starcastler",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 6.0,
+              "CircleSize": 5.0,
+              "OverallDifficulty": 8.0,
+              "ApproachRate": 8.0,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1023284/covers/cover@2x.jpg?1650705927",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1023284/covers/card@2x.jpg?1650705927",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1023284/covers/list@2x.jpg?1650705927"
+            }
+          }
         },
         {
-          "Mods": "FM"
+          "ID": 3603269,
+          "Mods": "FM",
+          "BeatmapInfo": {
+            "OnlineID": 3603269,
+            "DifficultyName": "Extra",
+            "BPM": 190.0,
+            "Length": 155000.0,
+            "StarRating": 6.35,
+            "Metadata": {
+              "Title": "Solo Cup",
+              "title_unicode": "Solo Cup",
+              "Artist": "Down",
+              "artist_unicode": "Down",
+              "Author": {
+                "OnlineID": 4694602,
+                "Username": "Down",
+                "CountryString": "Unknown"
+              },
+              "Source": "東方地霊殿　～ Subterranean Animism.",
+              "tags": "東方project touhou project chireiden 霊烏路 空 utsuho reiuji 11 th11 霊知の太陽信仰 reichi no taiyou shinkou solar sect of mystic wisdom ~ nuclear fusion jazz instrumental video game swing team shanghai alice zun duo cup: korea 2022",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 2.8,
+              "OverallDifficulty": 8.8,
+              "ApproachRate": 9.5,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1760520/covers/cover@2x.jpg?1662388682",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1760520/covers/card@2x.jpg?1662388682",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1760520/covers/list@2x.jpg?1662388682"
+            }
+          }
         },
         {
-          "Mods": "TB"
+          "ID": 2968949,
+          "Mods": "TB",
+          "BeatmapInfo": {
+            "OnlineID": 2968949,
+            "DifficultyName": "Poisonous Emotions",
+            "BPM": 188.0,
+            "Length": 360000.0,
+            "StarRating": 6.98,
+            "Metadata": {
+              "Title": "The Amateur Arsonist's Handbook",
+              "title_unicode": "The Amateur Arsonist's Handbook",
+              "Artist": "Thank You Scientist",
+              "artist_unicode": "Thank You Scientist",
+              "Author": {
+                "OnlineID": 8352623,
+                "Username": "Fisky",
+                "CountryString": "Unknown"
+              },
+              "Source": "",
+              "tags": "featured artist fa alternative alt progressive prog rock stranger heads prevail english collab collaboration kkipalt",
+              "PreviewTime": -1,
+              "AudioFile": "",
+              "BackgroundFile": ""
+            },
+            "Difficulty": {
+              "DrainRate": 5.0,
+              "CircleSize": 4.0,
+              "OverallDifficulty": 9.0,
+              "ApproachRate": 9.6,
+              "SliderMultiplier": 1.0,
+              "SliderTickRate": 1.0
+            },
+            "Covers": {
+              "cover@2x": "https://assets.ppy.sh/beatmaps/1443356/covers/cover@2x.jpg?1631507321",
+              "card@2x": "https://assets.ppy.sh/beatmaps/1443356/covers/card@2x.jpg?1631507321",
+              "list@2x": "https://assets.ppy.sh/beatmaps/1443356/covers/list@2x.jpg?1631507321"
+            }
+          }
         }
       ],
       "StartDate": "2022-11-04T00:00:00+00:00",
