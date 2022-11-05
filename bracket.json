@@ -1506,7 +1506,7 @@
       "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2022-10-28T01:00:00+01:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1530,7 +1530,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-04T00:00:00+00:00",
+      "Date": "2022-11-06T20:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1400,
@@ -1552,8 +1552,8 @@
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
-      "Date": "2022-11-04T00:00:00+00:00",
+      "Current": true,
+      "Date": "2022-11-05T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -1576,7 +1576,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-04T00:00:00+00:00",
+      "Date": "2022-11-05T14:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1200,
@@ -1597,7 +1597,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-04T00:00:00+00:00",
+      "Date": "2022-11-06T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1400,
