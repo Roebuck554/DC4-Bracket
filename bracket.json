@@ -1546,13 +1546,13 @@
     {
       "ID": 41,
       "Team1Acronym": "CHO",
-      "Team1Score": null,
+      "Team1Score": 7,
       "Team2Acronym": "GHE",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 2,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
-      "Current": true,
+      "Current": false,
       "Date": "2022-11-05T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1563,16 +1563,15 @@
         "CHO",
         "GHE"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 57,
       "Team1Acronym": "TOU",
-      "Team1Score": null,
+      "Team1Score": 7,
       "Team2Acronym": "DRA",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 6,
+      "Completed": true,
       "Losers": true,
       "PicksBans": [],
       "Current": false,
@@ -1586,24 +1585,29 @@
         "TOU",
         "DRA"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 48,
+      "Team1Acronym": "CHO",
       "Team1Score": null,
+      "Team2Acronym": "TOU",
       "Team2Score": null,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-11-06T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1400,
         "Y": 2050
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "CHO",
+        "TOU"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
