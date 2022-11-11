@@ -1530,7 +1530,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-06T20:00:00+00:00",
+      "Date": "2022-11-12T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1400,
@@ -1590,14 +1590,14 @@
     {
       "ID": 48,
       "Team1Acronym": "CHO",
-      "Team1Score": null,
+      "Team1Score": 0,
       "Team2Acronym": "TOU",
-      "Team2Score": null,
+      "Team2Score": 0,
       "Completed": false,
       "Losers": true,
       "PicksBans": [],
       "Current": true,
-      "Date": "2022-11-06T00:00:00+00:00",
+      "Date": "2022-11-12T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1400,
@@ -1618,7 +1618,7 @@
       "Losers": true,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-11T00:00:00+00:00",
+      "Date": "2022-11-18T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1600,
@@ -1635,7 +1635,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-11T00:00:00+00:00",
+      "Date": "2022-11-18T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 1800,
@@ -1652,7 +1652,7 @@
       "Losers": false,
       "PicksBans": [],
       "Current": false,
-      "Date": "2022-11-11T00:00:00+00:00",
+      "Date": "2022-11-18T00:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
         "X": 2000,
@@ -5324,7 +5324,7 @@
           "Mods": "TB"
         }
       ],
-      "StartDate": "2022-11-11T00:00:00+00:00",
+      "StartDate": "2022-11-18T00:00:00+00:00",
       "Matches": [
         49,
         17,
