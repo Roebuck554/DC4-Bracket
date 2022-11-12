@@ -1529,7 +1529,7 @@
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-11-12T16:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1589,14 +1589,80 @@
     },
     {
       "ID": 48,
-      "Team1Acronym": "CHO",
-      "Team1Score": 0,
-      "Team2Acronym": "TOU",
-      "Team2Score": 0,
-      "Completed": false,
+      "Team1Acronym": "TOU",
+      "Team1Score": 2,
+      "Team2Acronym": "CHO",
+      "Team2Score": 7,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3180049
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3641172
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3007213
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3155184
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 546514
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2588430
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3130037
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2140702
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3622090
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2819481
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3245458
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3049438
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2301348
+        }
+      ],
+      "Current": false,
       "Date": "2022-11-12T13:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1604,14 +1670,15 @@
         "Y": 2050
       },
       "Acronyms": [
-        "CHO",
-        "TOU"
+        "TOU",
+        "CHO"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 49,
+      "Team1Acronym": "CHO",
       "Team1Score": null,
       "Team2Score": null,
       "Completed": false,
@@ -1624,7 +1691,10 @@
         "X": 1600,
         "Y": 2050
       },
-      "Acronyms": [],
+      "Acronyms": [
+        "CHO"
+      ],
+      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
