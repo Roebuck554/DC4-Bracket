@@ -1678,13 +1678,99 @@
     {
       "ID": 49,
       "Team1Acronym": "CHO",
-      "Team1Score": null,
+      "Team1Score": 7,
       "Team2Acronym": "青ペン",
-      "Team2Score": null,
-      "Completed": false,
+      "Team2Score": 5,
+      "Completed": true,
       "Losers": true,
-      "PicksBans": [],
-      "Current": true,
+      "PicksBans": [
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3299406
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 3784938
+        },
+        {
+          "Team": "Blue",
+          "Type": "Ban",
+          "BeatmapID": 327230
+        },
+        {
+          "Team": "Red",
+          "Type": "Ban",
+          "BeatmapID": 3711243
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 722587
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3744694
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3227911
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1093434
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3622063
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 1157163
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3863348
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3845085
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2855672
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 2946220
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 2942890
+        },
+        {
+          "Team": "Red",
+          "Type": "Pick",
+          "BeatmapID": 3036160
+        },
+        {
+          "Team": "Blue",
+          "Type": "Pick",
+          "BeatmapID": 3881033
+        }
+      ],
+      "Current": false,
       "Date": "2022-11-19T13:30:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1695,18 +1781,18 @@
         "CHO",
         "青ペン"
       ],
-      "WinnerColour": "Blue",
       "PointsToWin": 7
     },
     {
       "ID": 17,
       "Team1Acronym": "VIC",
-      "Team1Score": null,
-      "Team2Score": null,
+      "Team1Score": 0,
+      "Team2Acronym": "CHO",
+      "Team2Score": 0,
       "Completed": false,
       "Losers": false,
       "PicksBans": [],
-      "Current": false,
+      "Current": true,
       "Date": "2022-11-20T17:00:00+00:00",
       "ConditionalMatches": [],
       "Position": {
@@ -1714,7 +1800,8 @@
         "Y": 750
       },
       "Acronyms": [
-        "VIC"
+        "VIC",
+        "CHO"
       ],
       "WinnerColour": "Blue",
       "PointsToWin": 7
